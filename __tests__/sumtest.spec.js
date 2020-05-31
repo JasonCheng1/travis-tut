@@ -12,11 +12,11 @@ describe("test sum function", () => {
 
     // more ideas for test cases
     // also test with some positive numbers
-    test("positive numbers", () => { //first parameter is the name of the test, second parameter is the function
-        let result = sum([1, 3, 4]);
-        expect(result).toEqual(8);
-        console.log(process.env.SUPER_COOL_API_KEY);
-    });
+    // test("positive numbers", () => { //first parameter is the name of the test, second parameter is the function
+    //     let result = sum([1, 3, 4]);
+    //     expect(result).toEqual(8);
+    //     console.log(process.env.SUPER_COOL_API_KEY);
+    // });
     // test with one number
     // test with some negative numbers
 });
